@@ -1,5 +1,5 @@
 {
-  "name": "gulp-jsforce-deploy",
+  "name": "@nhs/gulp-jsforce-deploy",
   "version": "2.0.0",
   "description": "Deploying Salesforce package using JSforce (no Migration Tool dependency)",
   "main": "index.js",
@@ -20,6 +20,9 @@
     "index.js"
   ],
   "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
+  "contributors": [
+    "Aaron Huggins <ahuggins@nethealthshops.com>"
+  ],
   "license": "MIT",
   "dependencies": {
     "decompress": "^4.2.0",
