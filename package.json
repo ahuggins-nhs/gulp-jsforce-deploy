@@ -1,5 +1,5 @@
 {
-  "name": "@nhs/gulp-jsforce-deploy",
+  "name": "@nhs-llc/gulp-jsforce-deploy",
   "version": "2.0.0",
   "description": "Deploying Salesforce package using JSforce (no Migration Tool dependency)",
   "main": "index.js",
