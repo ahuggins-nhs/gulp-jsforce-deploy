@@ -1,5 +1,5 @@
 'use strict'
-var meta = require('jsforce-metadata-tools')
+var meta = require('@nhs-llc/jsforce-metadata-tools')
 var PluginError = require('plugin-error')
 var decompress = require('decompress')
 var fancyLog = require('fancy-log')
